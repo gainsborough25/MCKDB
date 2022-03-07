@@ -1,0 +1,44 @@
+1) search by vendor (DONE)
+2) search by manu (DONE)
+3) search by material (TOO MUCH OVERLAP WITH MANU - DONE)
+
+4) INSERT stuff (DONE)
+    - be able to insert basic information to populate the quick view with new information
+        - manu
+        - set name
+        - add color
+        - assign color
+        - profile
+        - # of kits (to be inserted separate)
+        - assign vendor (to be inserted separate)
+        - add vendor
+
+
+5) UPDATE stuff (DONE)
+    - possibly create trigger to automatically put something like "not yet entered" in the # of kits and vendor reagions field 
+
+6) DELETE stuff (DONE)
+    - needed because sometimes kits are cancelled or renamed
+
+7) video stuff  (DONE)
+    - can write general script in this document
+    - needs to include intro/overview/scop of project, and then demonstrate the program
+    - inside the castle walls by Qumu BGM for intro?
+
+--------------------------------------------------------------------------------------------------------------------------
+
+WHAT I LEARNED:
+
+- I learned a lot....I mean, I learned how to do everything this video entails.
+    - had to relearn a bit of python to make it all work, but luckily python comes back pretty quickly
+    - I learned how to make a program talk to SQL, and at first I hated that I had to do it since I could do everything through SQL, but the program actually made things easier to do!
+    - I learned that triggers are absolutely amazing for doing stuff
+    - i could talk about a lot more, but i won't..
+
+THINGS I WOULD DO DIFFERENTLY / THINGS I CAN STILL WORK ON:
+
+- I think, after having done this, I would have liked to learn Visual Studio and do C# stuff so I could make a desktop app.  The menu stuff is cool, but seems really archaic...
+- This is for sure a passion project - I would like to, time permitting, actually finish this in some capacity.  If not for the community, for myself.
+- My program doesn't have full functionality (explain verbally), and I do want to finish it, but for the scope of this project I decided not to impliment them
+
+This project was difficult, time consuming, fristrating, exhausting, and extremly rewarding.  I am glad to have taken this class CS 364.  Thanks, to all my classmates and to Dr. C!!!

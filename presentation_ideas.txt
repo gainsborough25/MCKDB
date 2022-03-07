@@ -1,0 +1,20 @@
+PRESENTATION IDEAS
+
+
+- Explanation of hobby and project scope
+- "What I have made, here, is nothing short of average quality"
+- dedicate section of video to include explaining ERD with viewing the tables
+- Now moving to the programming side:
+        - "Let's first take a look at the python code"
+        - *show the ALL the code in a massive screen shot whilst sayin "here it is - only leave on screen for a couple seconds at max*
+        - "okay now lemme show how it works..."
+- "the only way I know how to program any kind of UI is through the use of menus...so menu time"
+
+
+
+
+how to improve:
+
+- keycapSet and colorsearch have a lot of redundancies - can probably consolidate somehow
+- update has a lot of stuff missing - I can't, for example, update a color hex or color family, or vendor stuff - I can only update direct attributes of keycap sets
+
